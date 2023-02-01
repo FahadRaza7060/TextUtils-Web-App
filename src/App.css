@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    /* border: 2px solid grey; */
+    height: 15%;
+    padding: 5px;
+
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.btn {
+    /* color: red; */
+    padding: 35px;
+    margin-left: 25px;
+    background-color: #008CBA;
+}
+
+.txtarea {
+    padding: 40px;
+}
+
+.scontainer {
+    display: flex;
+    border: 2px solid grey;
+    margin-top: 50px;
+    padding: 150px;
+    align-items: flex-start;
+}
